@@ -6,7 +6,7 @@ if __name__ == '__main__':
     fibonacci_numbers = [0, 1]
     while True:
         try:
-            N = int(input("Enter how many numbers the Fibonacci sequence will have: "))
+            N = 10
             if N <= 1:
                 test = N / 0
             break
