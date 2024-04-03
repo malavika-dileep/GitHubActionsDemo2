@@ -6,7 +6,7 @@ if __name__ == '__main__':
     fibonacci_numbers = [0, 1]
     while True:
         try:
-            N = 10
+            N = 15
             if N <= 1:
                 test = N / 0
             break
